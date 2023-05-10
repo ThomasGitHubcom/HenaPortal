@@ -1,0 +1,30 @@
+{
+  "liens": {
+    "moodle": {
+      "titre": "Moodle",
+      "icone": "https://i.ibb.co/MZfqr4S/moodle-mobile-34.png"
+    },
+    "pastel": {
+      "titre": "Projet-Pastel",
+      "icone": "https://i.ibb.co/SKxh0fQ/icon-512x512.png"
+    }
+  },
+  "cours": {
+    "Sécurité WEB (labo)": {
+      "moodle": "6088"
+    },
+    "Intro aux BD: labo": {
+      "moodle": "4856"
+    },
+    "Réseaux d'infrastructure : pratique": {
+      "moodle": "4835"
+    },
+    "Actualité technologique": {
+      "moodle": "6062"
+    },
+    "Programmation orientée systèmes d'exploitation": {
+      "moodle": "6084",
+      "pastel": "https://projet-pastel.be/department/19/year/2"
+    }
+  }
+}

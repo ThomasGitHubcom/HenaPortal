@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{8722ed4f-5eb8-4db9-bea3-3eaf8f25ad29}": {
+      "updates": [
+        {
+          "version": "1.0.0",
+          "update_link": "https://github.com/ThomasGitHubcom/HenaPortal/raw/main/addons/latest-1.0.0.xpi"
+        }
+      ]
+    }
+  }
+}
